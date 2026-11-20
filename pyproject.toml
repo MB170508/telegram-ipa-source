@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "telegram-altstore"
+version = "1.0.0"
+description = "Import IPA files from Telegram channels and publish them as an AltStore Classic source on GitHub Releases."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Benzo" }]
+dependencies = [
+    "telethon>=1.36",
+    "requests>=2.31",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+speed = ["cryptg>=0.4"]
+
+[project.scripts]
+telegram-altstore = "telegram_altstore.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["telegram_altstore*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

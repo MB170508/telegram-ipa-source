@@ -1,0 +1,23 @@
+[source]
+name = "Telegram IPA Source"
+identifier = "com.benzo.altstore"  # NEVER change after first publish
+subtitle = "Apps imported from Telegram channels"
+description = "IPA files imported automatically from Telegram channels."
+tintColor = "38761D"
+
+[github]
+owner = "MB170508"
+repo = "telegram-ipa-source"
+source_path = "source.json"
+icons_dir = "assets/icons"
+backups_dir = "backups"
+verify_public_download = true
+
+[telegram]
+channels = ["@riftysIPAlibrary", "@blatants", "@binnichtaktivsipas/2", "@kamohacks", "@ipa_dark", "@ipafire", "@DENS0R", "@glesign", "@dpixel", "@IAppsBestLibrary", "@zxcvbn_tweaked"]
+session_name = "telegram_altstore"
+
+[options]
+all_versions = true
+tmp_dir = "tmp"
+db_path = "state/altstore.db"

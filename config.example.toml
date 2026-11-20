@@ -1,0 +1,31 @@
+# Copy to config.toml and edit. Secrets live in .env, never here.
+
+[source]
+name = "Telegram IPA Source"
+identifier = "com.example.telegram.ipa.source"   # NEVER change after first publish
+subtitle = "Apps imported from Telegram channels"
+description = "IPA files imported automatically from Telegram channels, distributed via GitHub Releases."
+tintColor = "2F6FED"          # hex, with or without '#'
+# website = "https://github.com/you/your-repo"
+
+[github]
+owner = "your-github-username"
+repo = "telegram-ipa-source"
+source_path = "source.json"          # committed catalogue file
+icons_dir = "assets/icons"           # committed icon assets
+backups_dir = "backups"              # timestamped source.json backups, committed
+private = false                      # repo visibility you created it with
+verify_public_download = true        # HEAD-check asset URLs without auth before updating source.json
+
+[telegram]
+# Channels to monitor: @username, https://t.me/name, or numeric -100... id
+# (private channels you are a member of resolve by username/id; invite links
+#  t.me/+hash are joined interactively via `telegram-altstore auth --join <link>`)
+channels = []
+session_name = "telegram_altstore"
+
+[options]
+all_versions = true            # publish every version, newest first (false = latest only)
+interval_seconds = 300         # monitor poll interval
+tmp_dir = "tmp"                # temp IPA downloads, deleted after publication
+db_path = "state/altstore.db"
