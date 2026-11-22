@@ -93,6 +93,20 @@ tmp_dir = "tmp"
 db_path = "state/altstore.db"
 ```
 
+### GitHub Actions Workflow
+
+This project includes an automated GitHub Actions workflow that:
+
+- **Triggers**: On every `release.published` and `release.edited` event
+- **Function**: Automatically updates `source.json` from all GitHub releases
+- **Sorting**: Apps are grouped by Telegram channel and sorted by bundle identifier
+- **Location**: `.github/workflows/update-source-on-release.yml`
+
+To use:
+1. Push the workflow files to your repository
+2. The workflow runs automatically on releases
+3. Generated `source.json` is committed back to the repository
+
 ## Commands
 
 | Command | Description |

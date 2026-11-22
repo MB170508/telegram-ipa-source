@@ -1,0 +1,1004 @@
+{
+  "name": "Telegram IPA Source",
+  "identifier": "com.benzo.altstore",
+  "subtitle": "Apps imported from Telegram channels",
+  "description": "IPA files imported automatically from Telegram channels.",
+  "tintColor": "38761D",
+  "apps": [
+    {
+      "name": "BeFreed",
+      "bundleIdentifier": "ai.befreed.freed-frontend-rn",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "4.6.5",
+          "buildVersion": "466",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-49fecb35bf2fcfe52288/app-49fecb35bf2fcfe52288.ipa",
+          "size": 111247096,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "Allow BeFreed to access your camera"
+          },
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Expo Dev Launcher uses the local network to discover and connect to development servers running on your computer."
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "We need microphone access so you can talk to the AI."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "This app needs access to your photo library to save images for sharing and saving cards."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "This app needs permission to add images to your photo library for sharing and saving cards."
+          },
+          {
+            "name": "SpeechRecognition",
+            "usageDescription": "We use speech recognition to transcribe your voice to text."
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "This helps us provide you with better content and user experience."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bunpo",
+      "bundleIdentifier": "com.N2BunpouApp.yuki",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "3.30.0",
+          "buildVersion": "69",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-1ac5b4cc3058567ca55f/app-1ac5b4cc3058567ca55f.ipa",
+          "size": 138477820,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.family-controls"
+          },
+          {
+            "name": "com.apple.developer.in-app-payments"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "Let's take a look at the question!"
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "Bunpo needs access to your microphone so you can record yourself"
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Required access to photo library for send picture in Intercom."
+          },
+          {
+            "name": "SpeechRecognition",
+            "usageDescription": "Speech data from this app will be sent to Apple to process your requests. This will also help Apple improves its speech recongnition technology.\nPress OK to answer with speech input"
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "This will be used to measure advertising efficiency"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Block Blast!",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "7.6.3",
+          "buildVersion": "7632",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-6989c9b4fd2e464d7e82/app-6989c9b4fd2e464d7e82.ipa",
+          "size": 88196806,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.game-center"
+          },
+          {
+            "name": "com.apple.developer.kernel.extended-virtual-addressing"
+          },
+          {
+            "name": "com.apple.developer.kernel.increased-memory-limit"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.developer.usernotifications.time-sensitive"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "keychain-access-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "BluetoothAlways",
+            "usageDescription": "Used to discover nearby players for transfer blocks feature."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "Used to show your live camera view during gameplay."
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "Used to capture your voice for in-game commands."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Used to select images from your photo library or save images to your device for app functionality."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "Used to select images from your photo library or save images to your device for app functionality."
+          },
+          {
+            "name": "SpeechRecognition",
+            "usageDescription": "Used to recognize your voice commands."
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "This identifier will be used to serve personalized ads to you."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cozy Couples",
+      "bundleIdentifier": "com.clarity.cozycouples",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "1.79",
+          "buildVersion": "0",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-06baddaee5bdad6be486/app-06baddaee5bdad6be486.ipa",
+          "size": 41071059,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          }
+        ],
+        "privacy": []
+      }
+    },
+    {
+      "name": "JournalCircle",
+      "bundleIdentifier": "com.genau.JournalCircle",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "3.6.9",
+          "buildVersion": "1",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-f16cba76e94f9beebd25/app-f16cba76e94f9beebd25.ipa",
+          "size": 15009660,
+          "minOSVersion": "17.6"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.devicecheck.appattest-environment"
+          },
+          {
+            "name": "com.apple.developer.journal.allow"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "keychain-access-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "Enable camera access so that you can take a picture and add it on your journal notes directly."
+          },
+          {
+            "name": "DocumentsFolder",
+            "usageDescription": ""
+          },
+          {
+            "name": "FaceID",
+            "usageDescription": "We need to unlock your data"
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "JournalCircle needs your permission to access audio"
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "To attach photos to your journal entries or memories, we need access to your photo library."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "JournalCircle needs permission to write photos to download your journals"
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "This data is used to improve app performance and stability."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Magic Sort",
+      "bundleIdentifier": "com.grandgames.magicsort",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "0.0.3538",
+          "buildVersion": "0.0.3538",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-c27816df1d2eef1a8d73/app-c27816df1d2eef1a8d73.ipa",
+          "size": 212075674,
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.game-center"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "UserTracking",
+            "usageDescription": "Your data will help us to provide a more personalized experience and offers."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Plusfinity",
+      "bundleIdentifier": "com.infinitix.plusfinity",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "2.0.3",
+          "buildVersion": "195",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-1b7bff46ece81fa768f9/app-1b7bff46ece81fa768f9.ipa",
+          "size": 78147451,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "Use your camera to scan and upload images of problems to receive detailed solutions within Plusfinity."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "To enable GPS location access for Exif data"
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "Enable microphone to voice questions and get detailed solutions in Plusfinity."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Allow photo access to select and upload images of problems you wish to receive detailed solutions for in Plusfinity."
+          }
+        ]
+      }
+    },
+    {
+      "name": "MealPrepPro",
+      "bundleIdentifier": "com.nibbleapps.MealPrepPro",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "4.4",
+          "buildVersion": "772",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-d4597a0c33b720366e43/app-d4597a0c33b720366e43.ipa",
+          "size": 155631564,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.devicecheck.appattest-environment"
+          },
+          {
+            "name": "com.apple.developer.healthkit"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.developer.ubiquity-kvstore-identifier"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "MealPrepPro uses your camera to import recipes from photos."
+          },
+          {
+            "name": "HealthShare",
+            "usageDescription": "MealPrepPro can display your nutrition info from Apple Health in Charts"
+          },
+          {
+            "name": "HealthUpdate",
+            "usageDescription": "MealPrepPro saves your meal nutrition and water to Apple Health"
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "By sharing your location, you can receive meal notifications at the right time."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "MealPrepPro can save images of your Meal Prep Streak to your photos"
+          },
+          {
+            "name": "Reminders",
+            "usageDescription": "MealPrepPro saves shopping items to Reminders"
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "We use your data to measure ad performance and improve your experience."
+          }
+        ]
+      }
+    },
+    {
+      "name": "HabitKit",
+      "bundleIdentifier": "com.roehl.habitkit",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "1.19.3",
+          "buildVersion": "204",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-361b6b3c219608a74b06/app-361b6b3c219608a74b06.ipa",
+          "size": 99076511,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-environment"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          },
+          {
+            "name": "com.apple.developer.icloud-services"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.developer.ubiquity-container-identifiers"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "This app requires access to the photo library to save your exported habit image."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stippl",
+      "bundleIdentifier": "com.stippl.stippl",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "3.1.15",
+          "buildVersion": "1526",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-e6bce295a64afe01f9e1/app-e6bce295a64afe01f9e1.ipa",
+          "size": 84735031,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.in-app-payments"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "Stippl uses the camera so you can take a photo and ask the travel assistant about it — for example, snapping a menu outside a restaurant and asking what is vegetarian. Stippl's payment provider can also read your bank card with the camera at checkout, so you can pay for a stay without typing the long card number; you can always enter the card by hand instead."
+          },
+          {
+            "name": "Contacts",
+            "usageDescription": "Stippl shows which of your contacts are on Stippl, so you can follow them — for example, a friend who already plans trips here. Your contacts are never stored."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "Stippl uses your location to show where you are on the map, and sends it along with your questions to the AI assistant so it can tell you what's near you, like a lunch spot around the corner. This only happens while the app is open; your location is never collected in the background."
+          },
+          {
+            "name": "Motion",
+            "usageDescription": "Stippl's maps use motion activity to tell whether you are walking or travelling by vehicle, so your position and heading stay accurate on the trip map — for example, keeping the map steady while you are on a train instead of snapping between nearby stops. This is never used for fitness or health tracking."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Stippl needs access to your photo library so you can choose photos to add to your trip journal and set your profile picture — for example, picking a photo you took in Rome to attach to that day of your itinerary. Only the photos you select are uploaded."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "Stippl saves images to your photo library only when you tap Save or Share — for example, saving the scratch map of countries you have visited, or your eSIM QR code so you can install it later without an internet connection."
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "Stippl uses your device's advertising identifier to see which ad or shared link brought you to the app and to show you more relevant travel ads in other apps and websites — for example, eSIM data deals for the country of your next trip. Every feature of Stippl works the same if you decline."
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Way",
+      "bundleIdentifier": "com.thewayapp.mobile",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "1.25.2",
+          "buildVersion": "3863",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-433ed441b7e631314527/app-433ed441b7e631314527.ipa",
+          "size": 114213351,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.healthkit"
+          },
+          {
+            "name": "com.apple.developer.healthkit.access"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Calendars",
+            "usageDescription": "The Way uses your calendars to allow you to add upcoming events."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "The Way uses your camera to take a new photo for your profile."
+          },
+          {
+            "name": "Contacts",
+            "usageDescription": "The Way uses your contacts to allow you to add contacts to calendar events."
+          },
+          {
+            "name": "HealthShare",
+            "usageDescription": "The Way will sync your Mindful Minutes with the Apple Health app as you progress."
+          },
+          {
+            "name": "HealthUpdate",
+            "usageDescription": "The Way will sync your Mindful Minutes with the Apple Health app as you progress."
+          },
+          {
+            "name": "LocationAlwaysAndWhenInUse",
+            "usageDescription": "The Way does not use your precise location in any capacity."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "The Way does not use your precise location in any capacity."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "The Way uses your photo library to let you pick a photo for your profile."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Parking Jam 3D",
+      "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "233.8.3",
+          "buildVersion": "1",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-229eab03dcc75d7c4ec3/app-229eab03dcc75d7c4ec3.ipa",
+          "size": 228404742,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.declared-age-range"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Calendars",
+            "usageDescription": "ParkingJam3D requests access to the Calendar"
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "We need to access the camera to allow users to click images meant to be sent as an attachment for help and support reasons."
+          },
+          {
+            "name": "LocationAlways",
+            "usageDescription": "The app doesn't use location info however third party plugins may need anonymous location data."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "ParkingJam3D requests location access when used to provide a better advertising experience."
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "We need to access the microphone to allow users to record videos using camera meant to be sent as an attachment for help and support reasons."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "We need to access photos library to allow users manually pick images meant to be sent as an attachment for help and support reasons."
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "Your data will only be used to deliver personalized ads to you."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Astra",
+      "bundleIdentifier": "com.vertventures.stella",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "3.12.83",
+          "buildVersion": "308",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-fa937c2212c4b63a107c/app-fa937c2212c4b63a107c.ipa",
+          "size": 97211414,
+          "minOSVersion": "15.1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.devicecheck.appattest-environment"
+          },
+          {
+            "name": "com.apple.developer.in-app-payments"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.developer.usernotifications.time-sensitive"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "Allow Astra to access your camera"
+          },
+          {
+            "name": "FaceID",
+            "usageDescription": "Allow Astra to access your Face ID biometric data."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "Astra uses your location to map the real sky above you. Your reading works without it."
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "Allow Astra to access your microphone"
+          },
+          {
+            "name": "Motion",
+            "usageDescription": "Allow Astra to access your device motion"
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Astra needs access to your photo library to save and share your readings and insights."
+          },
+          {
+            "name": "SpeechRecognition",
+            "usageDescription": "Astra uses speech recognition to transcribe your spoken messages, allowing you to communicate with Astra using your voice."
+          }
+        ]
+      }
+    },
+    {
+      "name": "Speak4Me",
+      "bundleIdentifier": "com.yadux.Speak4Me",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "6.4.6",
+          "buildVersion": "1",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-4d83b959ec48b66eb3c0/app-4d83b959ec48b66eb3c0.ipa",
+          "size": 54094410,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-environment"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          },
+          {
+            "name": "com.apple.developer.icloud-services"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.developer.ubiquity-kvstore-identifier"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "We need access to camera in order to scan documents"
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "We need access to microphone in order to record your voice"
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "We need access to your photo library to import images and documents for text extraction and reading"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Phone Tracker",
+      "bundleIdentifier": "phone.location.tracker",
+      "developerName": "Unknown",
+      "localizedDescription": "Imported from Telegram channel 2293082725.",
+      "versions": [
+        {
+          "version": "2.7.0",
+          "buildVersion": "1",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/MB170508/telegram-ipa-source/releases/download/ipa-e315d8692fef504c1c24/app-e315d8692fef504c1c24.ipa",
+          "size": 45781334,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "application-identifier"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.applesignin"
+          },
+          {
+            "name": "com.apple.developer.associated-appclip-app-identifiers"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.declared-age-range"
+          },
+          {
+            "name": "com.apple.developer.location.push"
+          },
+          {
+            "name": "com.apple.developer.team-identifier"
+          },
+          {
+            "name": "com.apple.developer.usernotifications.time-sensitive"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "keychain-access-groups"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "BluetoothAlways",
+            "usageDescription": "Allow the app to search for nearby devices using Bluetooth"
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "This app needs access to camera to take profile photos."
+          },
+          {
+            "name": "Contacts",
+            "usageDescription": "Please allow access to be able to contacts"
+          },
+          {
+            "name": "LocationAlways",
+            "usageDescription": "Access is needed to show your location on the map and share it with your circle members."
+          },
+          {
+            "name": "LocationAlwaysAndWhenInUse",
+            "usageDescription": "Access is needed to show your location on the map and share it with your circle members."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "Access is needed to show your location on the map and share it with your circle members."
+          },
+          {
+            "name": "Motion",
+            "usageDescription": "With motion access, your routes in history match how you actually traveled — walking or driving."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "This app needs access to photo library to select profile photos."
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "We need this for attribution, analytics and advertising the app to people like you"
+          }
+        ]
+      }
+    }
+  ],
+  "news": []
+}
